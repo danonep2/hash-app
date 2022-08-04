@@ -92,7 +92,7 @@ function App() {
 
       </View>
       <Button
-        title='Reset Game'
+        title='Reiniciar jogo'
         onPress={() => resetGame()}
       />
 
